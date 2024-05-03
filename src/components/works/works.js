@@ -1,8 +1,8 @@
 import React from 'react'
 import './works.css';
-import portfolio1 from "../../assets/portfolio-1.png";
-import portfolio2 from "../../assets/portfolio-2.png";
-import portfolio3 from "../../assets/portfolio-3.png";
+// import portfolio1 from "../../assets/portfolio-1.png";
+// import portfolio2 from "../../assets/portfolio-2.png";
+// import portfolio3 from "../../assets/portfolio-3.png";
 
 
 
@@ -44,6 +44,10 @@ gaining insights into optimizing software delivery</td>
             <td>Currently developing a faculty management system
 for the department, aimed at enhancing
 administrative processes and improving efficiency.</td>
+          </tr>
+          <tr>
+            <td>Increasing the efficiency of solar panel</td>
+            <td>We developed a solution to increase the efficiency of solar panel by tracking the sun and also integrated the cooling system.</td>
           </tr>
         </table>
     </section>

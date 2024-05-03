@@ -10,7 +10,7 @@ import linked from '../../assets/linked.png';
 const Contact = () => {
   return (
     <section id='contactpage'>
-        <div id='experience'>
+        {/* <div id='experience'>
             <h1 className='exptitle'>Experience</h1>
             <p className='expdes'>I'm currently pursuing my undergraduate studies at KCT, where I'm actively exploring new horizons and nurturing my passion for learning.</p>
             <div className='expimgs'>
@@ -19,7 +19,7 @@ const Contact = () => {
                 <img src={microsoft} alt='' className='expimg'></img>
                 <img src={facebook} alt='' className='expimg'></img>
             </div>
-        </div>
+        </div> */}
         <div id='contact'>
           <h1 className='exptitle'>Contact me</h1>
           <span className='condesc'>Please fill out the form below to discuss about opporunities.</span>

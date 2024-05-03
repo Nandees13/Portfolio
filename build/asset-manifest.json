@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6d290d1b.css",
+    "main.js": "/static/js/main.9e551fa4.js",
+    "static/media/linked.png": "/static/media/linked.b1bebb391a157454d569.png",
+    "static/media/intro.png": "/static/media/intro.dc48f68b3efa163f06ca.png",
+    "static/media/facebook.png": "/static/media/facebook.81dd033a37c4860f7121.png",
+    "static/media/adobe.png": "/static/media/adobe.a08b8360ff7b700ed0c4.png",
+    "static/media/walmart.png": "/static/media/walmart.1d2b5e5c5c5a8e2bd5ce.png",
+    "static/media/ui-design.png": "/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/index.html",
+    "main.6d290d1b.css.map": "/static/css/main.6d290d1b.css.map",
+    "main.9e551fa4.js.map": "/static/js/main.9e551fa4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d290d1b.css",
+    "static/js/main.9e551fa4.js"
+  ]
+}
